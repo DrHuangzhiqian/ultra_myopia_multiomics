@@ -1,0 +1,30 @@
+# Large analysis data and binary outputs
+*.RData
+*.rda
+*.rds
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Local outputs and temporary working folders
+outputs/
+tmp/
+tmp_*/
+.codex_spreadsheet_*/
+.ocr_deps/
+pdfs/
+
+# Runtime and editor noise
+.Rhistory
+.RDataTmp
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
