@@ -9,3 +9,4 @@ This codebase is intended to support transparent and reproducible reporting of t
 ## Analysis Code
 
 - `analysis/lasso_multiclass/`: cleaned template scripts for single-omics and multi-omics multiclass LASSO modeling, including repeated cross-validation, fold-specific feature prefiltering, model evaluation, feature stability summaries, and clinical-anchor plotting.
+- `analysis/molecular_patterns/`: cleaned template script for mutually exclusive molecular-pattern reclassification across ordered groups, including target-specific, intermediate-specific, and severity-gradient feature assignments.
